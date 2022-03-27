@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: c334001e-13dd-855f-2d15-197a5de6d752
 resourcetype: Document
 title: Quiz 1 Equation Sheet
 uid: 2013cba8-6d06-ea09-582d-9e4d7558f514

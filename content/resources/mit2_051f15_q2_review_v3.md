@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: c334001e-13dd-855f-2d15-197a5de6d752
 resourcetype: Document
 title: Quiz 2 Review Problems
 uid: d7dbc839-111f-2f19-7a72-2b90e6d3748a
