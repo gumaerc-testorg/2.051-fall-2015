@@ -5,6 +5,7 @@ file: /courses/2-051-introduction-to-heat-transfer-fall-2015/e32f70f7e00f3495344
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 2 Equation Sheet
 uid: e32f70f7-e00f-3495-3447-b606cea0421f
 ---
 Equation sheet for a quiz on heat transfer.
-

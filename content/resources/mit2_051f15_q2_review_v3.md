@@ -5,6 +5,7 @@ file: /courses/2-051-introduction-to-heat-transfer-fall-2015/d7dbc839111f2f197a7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 2 Review Problems
 uid: d7dbc839-111f-2f19-7a72-2b90e6d3748a
 ---
 Review problems for a quiz on heat transfer.
-
