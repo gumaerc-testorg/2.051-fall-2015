@@ -2,6 +2,7 @@
 content_type: resource
 description: Equation sheet for a quiz on heat transfer.
 file: /courses/2-051-introduction-to-heat-transfer-fall-2015/e32f70f7e00f34953447b606cea0421f_MIT2_051F15_EqnSheet_Q2_v3.pdf
+file_size: 171161
 file_type: application/pdf
 learning_resource_types:
 - Exams
