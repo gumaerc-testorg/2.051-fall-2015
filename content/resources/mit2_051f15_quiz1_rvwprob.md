@@ -2,6 +2,7 @@
 content_type: resource
 description: Review problems for a quiz on heat transfer.
 file: /courses/2-051-introduction-to-heat-transfer-fall-2015/43c5e44c07b471d21ee32c7ffe8e2880_MIT2_051F15_Quiz1_RvwProb.pdf
+file_size: 402350
 file_type: application/pdf
 learning_resource_types:
 - Exams
