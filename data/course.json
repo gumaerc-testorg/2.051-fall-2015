@@ -35,9 +35,10 @@
   },
   "learning_resource_types": [
     "Exams",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "2d0de802-e323-4912-8dc0-7524999bdef0",
   "site_short_id": "2.051-fall-2015",
+  "site_url_path": "courses/2-051-introduction-to-heat-transfer-fall-2015",
   "title": "Course Metadata"
 }
