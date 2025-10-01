@@ -10,7 +10,7 @@ uid: af28f236-55b1-e0e9-8dd3-0363b1717e51
 
 Readings are from the required textbook:
 
-Bergman, Theodore L., Adrienne S. Lavine, Frank P. Incropera, et al. _Introduction to Heat Transfer_. Wiley, 2011. ISBN: 9780470501962. \[Preview with [Google Books](http://books.google.com/books?id=YBaNaLurTD4C&pg=PAfrontcover)\]
+Bergman, Theodore L., Adrienne S. Lavine, Frank P. Incropera, et al. _Introduction to Heat Transfer_. Wiley, 2011. ISBN: 9780470501962. \[Preview with {{% resource_link "8dc0ae84-ada4-416c-82ee-0527d916c808" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
