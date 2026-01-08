@@ -21,7 +21,7 @@ Note: This is a half-semester course that takes place during the second half of 
 Prerequisites
 -------------
 
-{{% resource_link "6ea2516b-7903-4f54-bde7-270d066300bb" "_2.05 Thermodynamics_" %}}
+[_2.05 Thermodynamics_](http://student.mit.edu/catalog/m2a.html#2.05)
 
 Description
 -----------
@@ -50,11 +50,11 @@ Students will have the opportunity to demonstrate a familiarity and ability to w
 
 ### Required
 
-Bergman, Theodore L., Adrienne S. Lavine, Frank P. Incropera, et al. _Introduction to Heat Transfer_. Wiley, 2011. ISBN: 9780470501962. \[Preview with {{% resource_link "8dc0ae84-ada4-416c-82ee-0527d916c808" "Google Books" %}}\]
+Bergman, Theodore L., Adrienne S. Lavine, Frank P. Incropera, et al. _Introduction to Heat Transfer_. Wiley, 2011. ISBN: 9780470501962. \[Preview with [Google Books](http://books.google.com/books?id=YBaNaLurTD4C&pg=PAfrontcover)\]
 
 ### Supplementary
 
-Lienhard, John H., and John H. Lienhard. _A Heat Transfer Textbook_. Dover Publications, 2011. ISBN: 9780486479316. \[Preview with {{% resource_link "7c8066f1-9489-4561-a5b9-4ce682759ed4" "Google Books" %}}\] A version of the textbook is {{% resource_link "9d036ec5-9a35-469f-ae66-7fc5c89d3ee4" "available online" %}}, for free.
+Lienhard, John H., and John H. Lienhard. _A Heat Transfer Textbook_. Dover Publications, 2011. ISBN: 9780486479316. \[Preview with [Google Books](http://books.google.com/books?id=P8iV6IjNtI8C&pg=PAfrontcover)\] A version of the textbook is [available online](http://web.mit.edu/lienhard/www/ahtt.html), for free.
 
 Grading
 -------
@@ -141,4 +141,4 @@ A short non-exhaustive list of examples that constitute a breach of academic hon
 *   Engaging in any behavior to reduce the grade or performance of another student.
 *   Engaging in behavior to illegitimately obtain course materials before they are issued to the class by the faculty.
 
-Further discussion and links on these issues can be found on the {{% resource_link "80c7426c-54bc-4fdc-be5e-fa684b56e832" "Mechanical Engineering Department's Ethics and Integrity webpage" %}}.
+Further discussion and links on these issues can be found on the [Mechanical Engineering Department's Ethics and Integrity webpage](http://meche.mit.edu/ethics).
